@@ -21,8 +21,8 @@ Limitaciones:
     de algun caracter no es posible
 
 ejemplos de expresiones:
-1+2*3
-5+2^5-40
-2+20/10
-20^3
-2*(1+2*3-10)
+- `1+2*3`
+- `5+2^5-40`
+- `2+20/10`
+- `20^3`
+- `2*(1+2*3-10)`
